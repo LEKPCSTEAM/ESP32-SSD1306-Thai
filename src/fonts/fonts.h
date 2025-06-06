@@ -8,5 +8,17 @@ extern dw_font_info_t font_th_sarabun_new_regular12;
 extern dw_font_info_t font_th_sarabun_new_regular14;
 extern dw_font_info_t font_th_sarabun_new_regular16;
 extern dw_font_info_t font_th_sarabun_new_regular18;
+extern dw_font_info_t font_th_sarabun_new_regular20;
+extern dw_font_info_t font_th_sarabun_new_regular22;
+extern dw_font_info_t font_th_sarabun_new_regular24;
+extern dw_font_info_t font_th_sarabun_new_regular26;
+extern dw_font_info_t font_th_sarabun_new_regular28;
+extern dw_font_info_t font_th_sarabun_new_regular30;
+extern dw_font_info_t font_th_sarabun_new_regular32;
+extern dw_font_info_t font_th_sarabun_new_regular34;
+extern dw_font_info_t font_th_sarabun_new_regular36;
+extern dw_font_info_t font_th_sarabun_new_regular38;
+extern dw_font_info_t font_th_sarabun_new_regular40;
+
 
 #endif
